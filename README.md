@@ -1,5 +1,5 @@
 <h1> RunSomeAware</h1>
-<img src="locker.png">
+<img src="locker.png"><br>
 Small ransomware awareness campaign with proof of concept...<br>
 <b>Ransomware:</b> type of malware which encrypt all your files.<br>
 <b>Encryption:</b> simple locker which will lock specific files with a key. You can't unlock them without key.<br> 
@@ -7,13 +7,12 @@ Small ransomware awareness campaign with proof of concept...<br>
 <pre><code>
 //Settings...
 data = 10
+
 key = 20
-
-
 //Encryption...
 data + key = 30
-//You need 2 variable values to recover 3rd value.
 
+//You need 2 variable values to recover 3rd value.
 //Decryption...
 data = 30 - key 
 data = 20
