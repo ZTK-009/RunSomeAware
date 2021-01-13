@@ -29,6 +29,8 @@ data = 20
 <li>AES 32 bit encryption</li>  
 </ul>
 
+<br><img src="video.gif"><br>
+
 <h2> Configure:</h2>
 First set these all settings in <a href="RunSomeAware.cs">RunSomeAware.cs</a> and then run <a href="compiler_v2.0.bat">compiler_v2.0.bat</a> or <a href="compiler_v4.0.bat">compiler_v4.0.bat</a>.
 <ul>
