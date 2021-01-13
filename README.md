@@ -30,8 +30,8 @@ data = 20
 <li>AES 32 bit encryption</li>  
 </ul>
 
-<h2> Settings:</h2>
-First set these all settings in <a href="RunSomeAware.cs">RunSomeAware.cs</a> and then
+<h2> Configure:</h2>
+First set these all settings in <a href="RunSomeAware.cs">RunSomeAware.cs</a> and then run <a href="compiler_v2.0.bat">compiler_v2.0.bat</a> or <a href="compiler_v4.0.bat">compiler_v4.0.bat</a>.
 <ul>
 <li><a href="RunSomeAware.cs#L10">Key:</a> A key to lock or unlock files.</li>  
 <li><a href="RunSomeAware.cs#L11">Crypted File Extension:</a> encrypted files will use this extension. e.g <code>{ ".graysuit", ".cry" ...};</code> etc. </li>  
