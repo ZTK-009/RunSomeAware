@@ -21,7 +21,7 @@ data = 20
 <h2> Features:</h2>
 <ul>
 <li>Tiny around 5--7 KB</li>  
-<li>Coded under 65 lines</li>  
+<li>Coded under 100 lines</li>  
 <li>Allowed file extension specification.</li>  
 <li>Supports .net framework v2.0---5.x</li>  
 <li>Supports win7--win10 both 86/64 bit</li>   
