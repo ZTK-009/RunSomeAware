@@ -1,0 +1,1 @@
+"C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe" "%cd%/../RunSomeAware.cs" -win32manifest:"Resources/RunSomeAware.manifest"
