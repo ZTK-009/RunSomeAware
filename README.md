@@ -35,8 +35,9 @@ First set these all settings in <a href="RunSomeAware.cs">RunSomeAware.cs</a> an
 <ul>
 <li><a href="RunSomeAware.cs#L10">Key:</a> A key to lock or unlock files.</li>  
 <li><a href="RunSomeAware.cs#L11">Crypted File Extension:</a> encrypted files will use this extension. e.g <code>{ ".graysuit", ".cry" ...};</code> etc. </li>  
-<li><a href="RunSomeAware/blob/main/RunSomeAware.cs#L12">ParentDirectory:</a> directory where runsomeaware start encrypting files and folders.</li>  
+<li><a href="RunSomeAware.cs#L12">ParentDirectory:</a> directory where runsomeaware start encrypting files and folders.</li>  
 <li><a href="RunSomeAware.cs#L13">Allowed File Extension:</a> files with specific extension which would be encrypted and other would be skipped. e.g <code>{ ".png", ".doc", ".pdf", ... };</code> etc.</li>  
+<li><a href="RunSomeAware.cs#L14">Crypt Mode:</a> Specify whether you want to encrypt or decrypt files. i.e <code>Mode.Encrypt or Mode.Encrypt</code> etc.</li>  
 </ul>
 
 <h2> Contributions</h2>
