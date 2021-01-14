@@ -46,7 +46,7 @@ First set these all settings in <a href="RunSomeAware.cs">RunSomeAware.cs</a> an
 <li><a href="Examples/compiler_Assembly_Changer.bat">compiler_Assembly_Changer.bat</a> : Change assembly info details of output execuatble. e.g CompanyName,FileVersion,CopyRight etc</li>  
 <li><a href="Examples/compiler_Icon.bat">compiler_Icon.bat</a> : Change icon of output execuatble.</li>  
 <li><a href="Examples/compiler_Optimize.bat">compiler_Optimize.bat</a> : Optimize output execuatble file size.</li>  
-<li><a href="Examples/compiler_Run_As_Admin.bat">compiler_Run_As_Admin.bat</a> Make output execuatble to always run as administrator.</li>  
+<li><a href="Examples/compiler_Run_As_Admin.bat">compiler_Run_As_Admin.bat</a> : Make output execuatble to always run as administrator.</li>  
 <li><a href="Examples/compiler_help.txt">compiler_help.txt</a> : Contains some info about csharp compiler arguments.</li>  
 </ul>
 
