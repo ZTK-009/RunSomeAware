@@ -14,7 +14,7 @@ data + key = 30
 //You need 2 variable values to recover 3rd value.
 //Decryption...
 data = 30 - key 
-data = 20
+data = 10
 //You can't recover data without a key.
 </code></pre>
 
