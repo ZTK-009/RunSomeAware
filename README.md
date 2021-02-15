@@ -59,4 +59,5 @@ You can contribute by using, reporting etc. You are always welcome so never fear
 <h2> Disclaimer</h2>
 We assume everyone should use it legally. Author and organisation won't be responsible in case of your crime.
 
-Note:You cant encrypt file in "Users" Directory if controlled folder access is enabled..So new Method Coming Soon to Bypass this....
+# Note:
+You cant encrypt file in "Users" Directory if controlled folder access is enabled..So new Method Coming Soon to Bypass this....
