@@ -59,10 +59,4 @@ You can contribute by using, reporting etc. You are always welcome so never fear
 <h2> Disclaimer</h2>
 We assume everyone should use it legally. Author and organisation won't be responsible in case of your crime.
 
-<h2> Contact</h2>
-<ul><li>Facebook: <a href="https://fb.com/messages/t/gray.programmerz.5"><b>gray.programmerz.5</b></a></li>
-<li>Email: <b><a href="mailto:hackrefisher@gmail.com">hackrefisher@gmail.com</a></b></li>
-<li>Website: <a href="https://tiplava.blogspot.com/"><b>tiplava</b></a></li>
-<li>Discord: <a href="https://discord.gg/Hu5XPGMTuk"><b>Fishes</b></a></li>
-</ul>
-<h1>I Love ALLAH + Holy Prophet + Islam and Pakistan.</h1>
+Note:You cant encrypt file in "Users" Directory if controlled folder access is enabled..So new Method Coming Soon to Bypass this....
