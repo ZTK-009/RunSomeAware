@@ -62,5 +62,7 @@ We assume everyone should use it legally. Author and organisation won't be respo
 # Note:
 You cant encrypt file in "Users" Directory if controlled folder access is enabled..So new Method Coming Soon to Bypass this....
 
+# See This Video to bypass Ransomware Protection
+
 ## Video Tutorials !!!
-## [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ny6RsSataAs/0.jpg)](https://youtu.be/Ny6RsSataAs "Ransomware vs Dender | Who Wins??")
+## [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ny6RsSataAs/0.jpg)](https://youtu.be/Ny6RsSataAs)
